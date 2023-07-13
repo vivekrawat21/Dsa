@@ -9,7 +9,7 @@ public class Array_2d {
 //            Array1d[element]= in.nextInt();
 //        }
 //
-//        System.out.println(Arrays.toString(Array1d));     ==> 1-Dimensionla array with advance for loop which is known as foreach loop  This is only for exaple purposes
+//        System.out.println(Arrays.toString(Array1d));     ==> 1-Dimensionla array with advance for loop which is known as foreach loop
 
 
         int[][] arr = new int[2][2];

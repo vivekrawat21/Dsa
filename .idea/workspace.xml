@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Advance arrayList">
-      <change afterPath="$PROJECT_DIR$/src/Searching.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Linear search using for each">
+      <change afterPath="$PROJECT_DIR$/src/LinearSearchString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,8 +104,47 @@
       <option name="project" value="LOCAL" />
       <updated>1689279660290</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Linear search using simple for loop">
+      <created>1689351709780</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689351709780</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Linear search using simple for loop">
+      <created>1689351732008</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1689351732008</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1689351802673</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1689351802673</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Linear search using for each">
+      <created>1689351921977</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1689351921977</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Started dsa" />
@@ -114,6 +154,9 @@
     <MESSAGE value="on 2d array" />
     <MESSAGE value="ArrayList" />
     <MESSAGE value="Advance arrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="Advance arrayList" />
+    <MESSAGE value="Linear search using simple for loop" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Linear search using for each" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linear search using for each" />
   </component>
 </project>

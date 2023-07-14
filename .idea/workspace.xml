@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Linear search using for each">
-      <change afterPath="$PROJECT_DIR$/src/LinearSearchString.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Linear search using string">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinearSearchString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinearSearchString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689351921977</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Linear search using string">
+      <created>1689353229410</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1689353229410</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +163,7 @@
     <MESSAGE value="Linear search using simple for loop" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Linear search using for each" />
-    <option name="LAST_COMMIT_MESSAGE" value="Linear search using for each" />
+    <MESSAGE value="Linear search using string" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linear search using string" />
   </component>
 </project>

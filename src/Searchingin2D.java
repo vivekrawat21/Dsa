@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Searchingin2D {
 
-    //for searching like this first of all we want to sort the array/matics firs
+    //for searching like this first of all we want to sort the array/matric
     public static void main(String[] args) {
       int[][] RowColArray ={{10,20,30},
                             {13,25,33},
@@ -16,7 +16,7 @@ public class Searchingin2D {
 
             System.out.println("Element Found at index: "+Arrays.toString(Search(RowColArray, target)));
         }
-    }public static int[] Search(int arr[][], int target){
+    public static int[] Search(int arr[][], int target){
         int row = 0;
         int col= arr.length-1;
 

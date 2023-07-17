@@ -32,6 +32,6 @@ public class LinearSearchString {
         System.out.print("Enter the name: ");
         String name = in.next();
          char target = 's';
-        System.out.println(LinearSearch2(name,target)==true?("character is found"):("Character not found"));
+        System.out.println(LinearSearch2(name,target)==true?("character "+target+" is found"):("Character not found"));
     }
 }

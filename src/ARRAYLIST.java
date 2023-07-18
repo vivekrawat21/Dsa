@@ -5,7 +5,7 @@ public class ARRAYLIST {
     public static void main(String[] args) {
         //syntax
 //        <> Generic Class
-        ArrayList<Integer> dynamicArray = new ArrayList<>(10);  //no matter how much capacity it has it allocte it dynamically and resize the aaray according to some algorith
+        ArrayList<Integer> dynamicArray = new ArrayList<>(10);  //no matter how much capacity it has it allocate it dynamically and resize the aaray according to some algorithm
 
         Scanner in = new Scanner(System.in);
 

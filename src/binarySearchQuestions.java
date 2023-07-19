@@ -5,7 +5,7 @@ public class binarySearchQuestions {
         // sealing : Smallest element in array >= target element
         //arr= {2,3,4,5,14,16,18}
         //ex : target=14 the cealing =14 target= 15 ceiling= 16
-// For Binary search first we should know that the array will always be sorted- you see sorted array apply binary search
+// For Binary search first we should know that the array will always be sorted-  you see sorted array apply binary search
          int[] arr= {-3,-1,0,2,7,10,19,44,45,55};
         System.out.println("cealing of target element is: "+cealingSearch(arr,-2));
         System.out.println("floor of target element is: "+floorSearch( arr,-2));
@@ -15,11 +15,12 @@ public class binarySearchQuestions {
 
     //This is only different from binary search only when the array only do not contain the target
     static int cealingSearch(int[] arr, int target) {
+        //Cealing is basically a number which is the biggest no. which is smaller than or equal to the target number.
         int  end= arr.length-1;
         int start = 0;
 
 
-        while(start<=end){  //If the target is not find then in the last condition the start will be greater then the end so in that case the start will be end+1 and there is where we find our answer if the target element is not found then the element greater than the target will be the answer..
+        while(start<=end){  //If the target is not find then in the last condition the start will be greater than the end so in that case the start will be end+1 and there is where we find our answer if the target element is not found then the element greater than the target will be the answer..
             int mid = start+ (end-start)/2;
             if(arr[mid]==target){
 
@@ -37,12 +38,12 @@ public class binarySearchQuestions {
     }
 
     static int floorSearch(int []arr, int target){
-
+//  Basically floor is a number which is biggest/greatest number which is smaller than or equal to the target element
         int  end= arr.length-1;
         int start = 0;
 
 
-        while(start<=end){  //If the target is not find then in the last condition the start will be greater then the end so in that case the end will be start-1 and there is where we find our answer if the target element is not found then the element just smaller than that in the target will be the answer..
+        while(start<=end){  //If the target is not find then in the last condition the start will be greater than the end so in that case the end will be start-1 and there is where we find our answer if the target element is not found then the element just smaller than that in the target will be the answer..
             int mid = start+ (end-start)/2;
             if(arr[mid]==target){
 

@@ -7,15 +7,23 @@ public class binarySearchQuestions {
         //ex : target=14 the cealing =14 target= 15 ceiling= 16
 // For Binary search first we should know that the array will always be sorted-  you see sorted array apply binary search
          int[] arr= {-3,-1,0,2,7,10,19,44,45,55};
-        System.out.println("cealing of target element is: "+cealingSearch(arr,-2));
-        System.out.println("floor of target element is: "+floorSearch( arr,-2));
+         int num=-10;
+        System.out.println(cealingSearch(arr,num)==-1?("The cealing is not found because the target is greater than the greatest element of the array"):("cealing of the array is: "+ cealingSearch(arr,num)));
+
+        System.out.println(floorSearch(arr,num)==-1?("The floor is not found because the target is smaller than the smallest element of the array"):("floor of the array is: "+ floorSearch(arr,num)));
+
 
 
     }
 
     //This is only different from binary search only when the array only do not contain the target
     static int cealingSearch(int[] arr, int target) {
+
         //Cealing is basically a number which is the biggest no. which is smaller than or equal to the target number.
+
+        if (target>arr[arr.length-1]){
+            return -1;   // This condition is for when the target is greater than the greatest element of the array so ceiling will not be found in that case
+        }
         int  end= arr.length-1;
         int start = 0;
 
@@ -39,6 +47,10 @@ public class binarySearchQuestions {
 
     static int floorSearch(int []arr, int target){
 //  Basically floor is a number which is biggest/greatest number which is smaller than or equal to the target element
+        if (target<arr[0]){
+            return -1;   // This condition is for when the target is smaller than the smallest element of the array so floor will not be found in that case
+        }
+
         int  end= arr.length-1;
         int start = 0;
 

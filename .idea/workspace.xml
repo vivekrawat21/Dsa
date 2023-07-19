@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="today question">
-      <change afterPath="$PROJECT_DIR$/src/binarySearchQuestions.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="my Mehthod for Sealing question">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchingdArrayfullysortedMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binarySearchQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarySearchQuestions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689704181077</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="my Mehthod for Sealing question">
+      <created>1689785609525</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1689785609525</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,7 +260,8 @@
     <MESSAGE value="Binary Search" />
     <MESSAGE value="2darraySearch" />
     <MESSAGE value="today question" />
-    <option name="LAST_COMMIT_MESSAGE" value="today question" />
+    <MESSAGE value="my Mehthod for Sealing question" />
+    <option name="LAST_COMMIT_MESSAGE" value="my Mehthod for Sealing question" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -279,12 +286,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/binarySearchQuestions.java</url>
-          <line>13</line>
-          <properties class="binarySearchQuestions" method="cealingCealing">
+          <line>14</line>
+          <properties class="binarySearchQuestions" method="cealingSearch">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="8" />
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Binarysearch.java</url>

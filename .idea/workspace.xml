@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="today question">
-      <change beforePath="$PROJECT_DIR$/src/ARRAYLIST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYLIST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearchQuestions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchingdArrayfullysortedMatrix.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +210,21 @@
       <option name="project" value="LOCAL" />
       <updated>1689702906143</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="today question">
+      <created>1689704165501</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1689704165501</updated>
+    </task>
+    <task id="LOCAL-00025" summary="today question">
+      <created>1689704181077</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1689704181077</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,11 +271,20 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Searchingin2D.java</url>
           <line>18</line>
-          <properties class="Searchingin2D">
+          <properties class="Searchingin2D" method="Search">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/binarySearchQuestions.java</url>
+          <line>13</line>
+          <properties class="binarySearchQuestions" method="cealingCealing">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Binarysearch.java</url>

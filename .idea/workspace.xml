@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="facebook question">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_14_23,_12_05_AM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_14_23__12_05_AM__Changes_.xml" beforeDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="infinite array Binary Search">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -287,7 +285,21 @@
       <option name="project" value="LOCAL" />
       <updated>1689957072013</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="infinite array Binary Search">
+      <created>1689964138353</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1689964138353</updated>
+    </task>
+    <task id="LOCAL-00036" summary="infinite array Binary Search">
+      <created>1689964160470</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1689964160470</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -321,7 +333,8 @@
     <MESSAGE value="mthod for cealing from kunal" />
     <MESSAGE value="floor search / floor of target element" />
     <MESSAGE value="facebook question" />
-    <option name="LAST_COMMIT_MESSAGE" value="facebook question" />
+    <MESSAGE value="infinite array Binary Search" />
+    <option name="LAST_COMMIT_MESSAGE" value="infinite array Binary Search" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

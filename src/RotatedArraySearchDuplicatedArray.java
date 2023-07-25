@@ -1,21 +1,11 @@
-public class SearchInRotatedSortedArray {
-
-    //This will not work for duplicated value array
+public class RotatedArraySearchDuplicatedArray {
     public static void main(String[] args) {
-//approach1. Find the pivot of the array
-        //Pivid = where the array is starting to change or the largest no. in the array|| form where the numbers are ascending
-        // then search in the first half of the arrray and after that search in the second half of the array because first and second half is then sorted.
-        // ex- arr=[11,12,13,1,2,3,4,5,6,7,8]--> In this case the pivit is 13 so before pivit the array is sorted and after pivit it is sorted also.
-
-
-        //Ouestion is Find pivot
-
-        int[] arr={3,1};
+        int[] arr={3,3,4,4,5,1,2,3};
 //        System.out.println(findPivot(arr));
-        System.out.println(search(arr,1));
+        System.out.println(search(arr,2));
     }
     static int search(int[] nums, int target) {
-        int pivot = findPivot(nums);
+        int pivot = findPivotWithDuplicates(nums);
         if (pivot == -1) {
             return binarySearch(nums,target,0,nums.length-1);
         }
@@ -33,19 +23,42 @@ public class SearchInRotatedSortedArray {
         }
 
     }
-    static int findPivot(int[] arr) {
+    static int findPivotWithDuplicates(int[] arr) {
         int start=0;
         int end = arr.length-1;
         while(start<=end) {
             int mid = start+(end-start)/2;
             if(mid<end && arr[mid]>arr[mid+1]) {
                 return mid;
-            } else if ( mid>start && arr[mid]<arr[mid-1]) {
+            }
+            if ( mid>start && arr[mid]<arr[mid-1]) {
                 return mid-1;
-            } else if (arr[mid] <= arr[start]) {
-                end = mid-1;
-            } else {
-                start = mid+1;
+            }
+
+            // if elements at middle, start, aed are equal just skip the duplicates
+            if (arr[mid]==arr[start] && arr[mid]==arr[end]){
+                //skip the duplicates
+
+                //NOTE: what if these elements at staart and end were the pivot??
+                //Check if start is pivot
+                if(arr[start]>arr[start+1]){
+                    return start;
+                }
+
+                start++;
+
+                //check whether end is pivot
+                if(arr[end]<arr[end-1]){
+                    return end-1;
+                }
+                end--;
+            }
+            //left side is sorted, so pivot should be
+            else if(arr[start]<arr[mid] || arr[start]== arr[mid] && arr[mid]>arr[end]){
+                start =mid+1;
+            }
+            else {
+                end=mid-1;
             }
         }
         return -1;
@@ -74,4 +87,3 @@ public class SearchInRotatedSortedArray {
         return -1;
     }
 }
-

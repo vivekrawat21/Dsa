@@ -23,6 +23,8 @@ public class RotatedArraySearchDuplicatedArray {
         }
 
     }
+
+
     static int findPivotWithDuplicates(int[] arr) {
         int start=0;
         int end = arr.length-1;

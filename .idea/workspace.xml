@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="new question">
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="SplitArrayLargestSum-Hard question">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SplitArrayLargestSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SplitArrayLargestSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -379,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690479362524</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="SplitArrayLargestSum-Hard question">
+      <created>1690479892594</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1690479892594</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -394,7 +402,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Started dsa" />
     <MESSAGE value="First array program" />
     <MESSAGE value="2d array" />
     <MESSAGE value="2d array started" />
@@ -419,7 +426,8 @@
     <MESSAGE value="resolving this question" />
     <MESSAGE value="search in RotatedArray when the array contains duplicate elements" />
     <MESSAGE value="new question" />
-    <option name="LAST_COMMIT_MESSAGE" value="new question" />
+    <MESSAGE value="SplitArrayLargestSum-Hard question" />
+    <option name="LAST_COMMIT_MESSAGE" value="SplitArrayLargestSum-Hard question" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

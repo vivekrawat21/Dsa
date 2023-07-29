@@ -7,7 +7,7 @@ public class FloweBoquetProblem {
 
         System.out.println("minimum no. of days required: "+ BinarySearch(arr,noOfBoquet,noOfadjacentflower));
         }
-
+    //
     static Boolean possible(int[] arr, int day, int m ,int k){
         int count=0;
         int noOfBoquet=0;

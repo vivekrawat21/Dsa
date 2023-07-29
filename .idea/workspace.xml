@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="squareRoot using binary search">
-      <change afterPath="$PROJECT_DIR$/src/FloweBoquetProblem.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="logic 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FloweBoquetProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FloweBoquetProblem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,27 +50,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
-    </task>
-    <task id="LOCAL-00004" summary="2d array started">
-      <created>1689273305411</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1689273305411</updated>
-    </task>
-    <task id="LOCAL-00005" summary="on 2d array">
-      <created>1689276931581</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1689276931581</updated>
-    </task>
-    <task id="LOCAL-00006" summary="ArrayList">
-      <created>1689277660679</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1689277660679</updated>
     </task>
     <task id="LOCAL-00007" summary="ArrayList">
       <created>1689277685984</created>
@@ -394,7 +373,28 @@
       <option name="project" value="LOCAL" />
       <updated>1690565924076</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="new problem">
+      <created>1690651798931</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1690651798932</updated>
+    </task>
+    <task id="LOCAL-00054" summary="new problem">
+      <created>1690651909729</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1690651909729</updated>
+    </task>
+    <task id="LOCAL-00055" summary="logic 1">
+      <created>1690652710967</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1690652710967</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -409,8 +409,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2d array" />
-    <MESSAGE value="2d array started" />
     <MESSAGE value="on 2d array" />
     <MESSAGE value="ArrayList" />
     <MESSAGE value="Advance arrayList" />
@@ -434,7 +432,9 @@
     <MESSAGE value="new question" />
     <MESSAGE value="SplitArrayLargestSum-Hard question" />
     <MESSAGE value="squareRoot using binary search" />
-    <option name="LAST_COMMIT_MESSAGE" value="squareRoot using binary search" />
+    <MESSAGE value="new problem" />
+    <MESSAGE value="logic 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="logic 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -502,6 +502,11 @@
           <url>file://$PROJECT_DIR$/src/BinarySearchFacebook.java</url>
           <line>52</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FloweBoquetProblem.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />

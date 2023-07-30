@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Flower boquet end">
-      <change afterPath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ARRAYLIST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/ARRAYLIST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array_2d.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/Array_2d.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArraysIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/ArraysIntro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearchFacebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/BinarySearchFacebook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Binarysearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/Binarysearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FlowerBouquetProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/FlowerBouquetProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinearSearchString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/LinearSearchString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MinimumNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/MinimumNumberInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrderAgnosticSortedArrayBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/OrderAgnosticSortedArrayBinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RotatedArraySearchDuplicatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/RotatedArraySearchDuplicatedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RotationCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/RotationCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchInInfiniteArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/SearchInInfiniteArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchInRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/SearchInRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchInRotatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/SearchInRotatedSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searching.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searchingin2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/Searchingin2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SplitArrayLargestSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/SplitArrayLargestSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SquareRoot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarySearchQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/binarySearchQuestions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/moutainArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/moutainArray.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Sorting starte">
+      <change beforePath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Linear search using simple for loop">
-      <created>1689351732008</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1689351732008</updated>
     </task>
     <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1689351802673</created>
@@ -414,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690736074141</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Sorting starte">
+      <created>1690740716830</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1690740716831</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -429,7 +408,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Advance arrayList" />
     <MESSAGE value="Linear search using simple for loop" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Linear search using for each" />
@@ -454,7 +432,8 @@
     <MESSAGE value="logic 1" />
     <MESSAGE value="BinRY search" />
     <MESSAGE value="Flower boquet end" />
-    <option name="LAST_COMMIT_MESSAGE" value="Flower boquet end" />
+    <MESSAGE value="Sorting starte" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sorting starte" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

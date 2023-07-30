@@ -1,3 +1,5 @@
+package Searching;
+
 import java.util.Scanner;
 
 public class moutainArray { //also known as bitonic/ mountain array

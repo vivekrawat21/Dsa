@@ -4,9 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="BinRY search">
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Flower boquet end">
+      <change afterPath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FloweBoquetProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FloweBoquetProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ARRAYLIST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/ARRAYLIST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_2d.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/Array_2d.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraysIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/ArraysIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearchFacebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/BinarySearchFacebook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Binarysearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/Binarysearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FlowerBouquetProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/FlowerBouquetProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinearSearchString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/LinearSearchString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinimumNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/MinimumNumberInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrderAgnosticSortedArrayBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/OrderAgnosticSortedArrayBinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RotatedArraySearchDuplicatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/RotatedArraySearchDuplicatedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RotationCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/RotationCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchInInfiniteArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/SearchInInfiniteArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchInRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/SearchInRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchInRotatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/SearchInRotatedSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searchingin2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/Searchingin2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SplitArrayLargestSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/SplitArrayLargestSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SquareRoot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binarySearchQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/binarySearchQuestions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moutainArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/moutainArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +44,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/SearchInRotatedSortedArray.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Searching/SearchInRotatedSortedArray.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -50,13 +70,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Linear search using simple for loop">
-      <created>1689351709780</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1689351709780</updated>
     </task>
     <task id="LOCAL-00010" summary="Linear search using simple for loop">
       <created>1689351732008</created>
@@ -394,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690656385928</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Flower boquet end">
+      <created>1690736074140</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1690736074141</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -409,7 +429,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ArrayList" />
     <MESSAGE value="Advance arrayList" />
     <MESSAGE value="Linear search using simple for loop" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
@@ -434,13 +453,14 @@
     <MESSAGE value="new problem" />
     <MESSAGE value="logic 1" />
     <MESSAGE value="BinRY search" />
-    <option name="LAST_COMMIT_MESSAGE" value="BinRY search" />
+    <MESSAGE value="Flower boquet end" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flower boquet end" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Binarysearch.java</url>
+          <url>file://$PROJECT_DIR$/src/Searching/Binarysearch.java</url>
           <line>19</line>
           <properties class="Binarysearch" method="Search">
             <option name="EMULATED" value="true" />
@@ -449,7 +469,7 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Searchingin2D.java</url>
+          <url>file://$PROJECT_DIR$/src/Searching/Searchingin2D.java</url>
           <line>18</line>
           <properties class="Searchingin2D" method="Search">
             <option name="EMULATED" value="true" />
@@ -458,7 +478,7 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/binarySearchQuestions.java</url>
+          <url>file://$PROJECT_DIR$/src/Searching/binarySearchQuestions.java</url>
           <line>19</line>
           <properties class="binarySearchQuestions" method="cealingSearch">
             <option name="EMULATED" value="true" />
@@ -467,7 +487,7 @@
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/SearchInInfiniteArray.java</url>
+          <url>file://$PROJECT_DIR$/src/Searching/SearchInInfiniteArray.java</url>
           <line>15</line>
           <properties class="SearchInInfiniteArray" method="ans">
             <option name="EMULATED" value="true" />
@@ -476,7 +496,7 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/SearchInInfiniteArray.java</url>
+          <url>file://$PROJECT_DIR$/src/Searching/SearchInInfiniteArray.java</url>
           <line>30</line>
           <properties class="SearchInInfiniteArray" method="Search">
             <option name="EMULATED" value="true" />
@@ -485,7 +505,7 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/moutainArray.java</url>
+          <url>file://$PROJECT_DIR$/src/Searching/moutainArray.java</url>
           <line>12</line>
           <properties class="moutainArray" method="mountainPeak">
             <option name="EMULATED" value="true" />
@@ -494,17 +514,17 @@
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Binarysearch.java</url>
+          <url>file://$PROJECT_DIR$/src/Searching/Binarysearch.java</url>
           <line>22</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BinarySearchFacebook.java</url>
+          <url>file://$PROJECT_DIR$/src/Searching/BinarySearchFacebook.java</url>
           <line>52</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FloweBoquetProblem.java</url>
+          <url>file://$PROJECT_DIR$/src/Searching/FlowerBouquetProblem.java</url>
           <line>38</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>

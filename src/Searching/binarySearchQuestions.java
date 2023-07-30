@@ -1,3 +1,5 @@
+package Searching;
+
 public class binarySearchQuestions {
 
     public static void main(String[] args) {

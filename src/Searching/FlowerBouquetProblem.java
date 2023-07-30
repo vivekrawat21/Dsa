@@ -1,10 +1,12 @@
+package Searching;
+
 public class FlowerBouquetProblem {
     // ... (Previous code shown above)
 
     public static void main(String[] args) {
         // Flower bouquet problem
         int[] flowerArr = {1, 2, 3, 4, 5, 5, 5, 5, 5, 6, 6, 7, 8, 8, 9, 8, 7, 6};
-        int adjacentFlowers = 3;
+        int adjacentFlowers =3 ;
         int noOfBouquets = 5;
 
         int minDaysRequired = findMinimumDays(flowerArr, noOfBouquets, adjacentFlowers);
@@ -27,7 +29,7 @@ public class FlowerBouquetProblem {
         while (minDay <= maxDay) {
             int mid = minDay + (maxDay - minDay) / 2;
             if (isPossibleToMakeBouquets(flowerArr, mid, m, adjacentFlowers)) {
-                maxDay = mid;
+                maxDay = mid-1;
             } else {
                 minDay = mid + 1;
             }

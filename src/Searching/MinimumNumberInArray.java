@@ -1,8 +1,10 @@
+package Searching;
+
 import java.util.Scanner;
 
 public class MinimumNumberInArray {
     public static void main(String[] args) {
-        //Searching minimum element in array
+        //Searching.RotationCount.Searching minimum element in array
         int[] arr= new int[12];
         Scanner in = new Scanner(System.in);
         System.out.print("Enter element in your array: ");

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="logic 1">
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="BinRY search">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FloweBoquetProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FloweBoquetProblem.java" afterDir="false" />
     </list>
@@ -50,20 +50,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
-    </task>
-    <task id="LOCAL-00007" summary="ArrayList">
-      <created>1689277685984</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1689277685984</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Advance arrayList">
-      <created>1689279660290</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1689279660290</updated>
     </task>
     <task id="LOCAL-00009" summary="Linear search using simple for loop">
       <created>1689351709780</created>
@@ -394,7 +380,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690652710967</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="logic 1">
+      <created>1690656353424</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1690656353424</updated>
+    </task>
+    <task id="LOCAL-00057" summary="BinRY search">
+      <created>1690656385928</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1690656385928</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -409,7 +409,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="on 2d array" />
     <MESSAGE value="ArrayList" />
     <MESSAGE value="Advance arrayList" />
     <MESSAGE value="Linear search using simple for loop" />
@@ -434,7 +433,8 @@
     <MESSAGE value="squareRoot using binary search" />
     <MESSAGE value="new problem" />
     <MESSAGE value="logic 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="logic 1" />
+    <MESSAGE value="BinRY search" />
+    <option name="LAST_COMMIT_MESSAGE" value="BinRY search" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -505,7 +505,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/FloweBoquetProblem.java</url>
-          <line>13</line>
+          <line>38</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">

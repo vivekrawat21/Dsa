@@ -12,13 +12,15 @@ public class BubbleSort {
         //This is also known as inplace sorting algorithm because its space complexity is constant.
         //When array is sorted then the time complexity will be equal to best case
         // When the original order is maintained if the two or more elements are equal then it is stable sorted array otherwise it is unstable sorted array
-        int[] arr= {1,24,5,4,66,7,4,44,54};
+        int[] arr= {-3,-1,-4,-2,0,1,3,5,4,6};
         Sorting(arr);
         System.out.println(Arrays.toString(arr));
     }
     static void Sorting(int[] arr) {
+        boolean swapped;
         //run the steps n-1 times
         for (int i = 0; i < arr.length; i++) {
+            swapped =false;
             //for each stem max item will come at the last respective
             for (int j = 1; j < arr.length - i; j++) {
                 //swap if the item is smaller than the previous item
@@ -27,9 +29,15 @@ public class BubbleSort {
                     int temp = arr[j];
                     arr[j] = arr[j - 1];
                     arr[j - 1] = temp;
+                    swapped=true;
                 }
 
             }
+            //If you did not wap for a particular value of i, it means the array is sorted hence stop the loop
+            if (!swapped){ //!false =true
+                break;
+            }
         }
+
     }
 }

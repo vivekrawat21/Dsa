@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Sorting started">
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Bubble sort done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" afterDir="false" />
     </list>
@@ -50,13 +50,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Linear search using for each">
-      <created>1689351921977</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1689351921977</updated>
     </task>
     <task id="LOCAL-00013" summary="Range Search">
       <created>1689355163468</created>
@@ -394,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690740874705</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Bubble sort done">
+      <created>1690742551493</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1690742551493</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -409,7 +409,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Linear search using for each" />
     <MESSAGE value="Range Search" />
     <MESSAGE value="min in array" />
@@ -434,7 +433,8 @@
     <MESSAGE value="Flower boquet end" />
     <MESSAGE value="Sorting starte" />
     <MESSAGE value="Sorting started" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sorting started" />
+    <MESSAGE value="Bubble sort done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bubble sort done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

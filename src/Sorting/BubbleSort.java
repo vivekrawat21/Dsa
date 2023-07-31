@@ -6,7 +6,7 @@ public class BubbleSort {
     public static void main(String[] args) {
         //Bubble sort also known as sinking sort and exchange sort
         //Sorting may be ascending or descending
-        //Time complexity of bubble sort is best case = O(n^2) and worst case=O(n^2)
+        //Time complexity of bubble sort is best case = O(n) and worst case=O(n^2)
         // As the size of array is growing the no. of comparision also growing it is called time complexity
         //space complexity of bubble sort is O(1) constant no extra space require i.e copying the array etc. not required
         //This is also known as inplace sorting algorithm because its space complexity is constant.

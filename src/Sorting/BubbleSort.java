@@ -34,7 +34,7 @@ public class BubbleSort {
 
             }
             //If you did not wap for a particular value of i, it means the array is sorted hence stop the loop
-            if (!swapped){ //!false =true  ==> this condition for making the best case to the O(n)
+            if (!swapped){ //!false =true  ==> this condition for making the best case to the O(n) It help to get better time complexity
                 break;
             }
         }

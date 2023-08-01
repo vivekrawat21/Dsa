@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Selection sort started">
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Selection sort done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Binary Search">
-      <created>1689444841653</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1689444841653</updated>
     </task>
     <task id="LOCAL-00017" summary="Binary Search">
       <created>1689445032576</created>
@@ -394,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690816013798</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Selection sort done">
+      <created>1690817476650</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1690817476650</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -409,7 +408,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="min in array" />
     <MESSAGE value="Binary Search" />
     <MESSAGE value="2darraySearch" />
     <MESSAGE value="today question" />
@@ -434,7 +432,8 @@
     <MESSAGE value="Bubble sort done" />
     <MESSAGE value="Bubble sort" />
     <MESSAGE value="Selection sort started" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selection sort started" />
+    <MESSAGE value="Selection sort done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selection sort done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

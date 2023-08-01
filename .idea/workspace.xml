@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Selection sort done">
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Revision BubbleSort">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Revision/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Revision/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,20 +50,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Binary Search">
-      <created>1689445032576</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1689445032576</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Binary Search">
-      <created>1689445069395</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1689445069395</updated>
     </task>
     <task id="LOCAL-00019" summary="2darraySearch">
       <created>1689523578344</created>
@@ -393,7 +380,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690817476650</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Revision started">
+      <created>1690912120593</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1690912120593</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Revision BubbleSort">
+      <created>1690912243803</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1690912243803</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -408,8 +409,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Binary Search" />
-    <MESSAGE value="2darraySearch" />
     <MESSAGE value="today question" />
     <MESSAGE value="my Mehthod for Sealing question" />
     <MESSAGE value="mthod for cealing from kunal" />
@@ -433,7 +432,9 @@
     <MESSAGE value="Bubble sort" />
     <MESSAGE value="Selection sort started" />
     <MESSAGE value="Selection sort done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selection sort done" />
+    <MESSAGE value="Revision started" />
+    <MESSAGE value="Revision BubbleSort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revision BubbleSort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -500,6 +501,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Revision/BubbleSort.java</url>
+          <line>12</line>
+          <properties class="Revision.BubbleSort" method="Sort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Searching/Binarysearch.java</url>

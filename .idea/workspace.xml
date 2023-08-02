@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Revision BubbleSort">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Revision/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Revision/BubbleSort.java" afterDir="false" />
-    </list>
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Revision2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,13 +47,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
-    </task>
-    <task id="LOCAL-00020" summary="2darraySearch">
-      <created>1689526562213</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1689526562213</updated>
     </task>
     <task id="LOCAL-00021" summary="2darraySearch">
       <created>1689526635219</created>
@@ -394,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690913153193</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Revision2">
+      <created>1690985668543</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1690985668543</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -409,7 +406,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="today question" />
     <MESSAGE value="my Mehthod for Sealing question" />
     <MESSAGE value="mthod for cealing from kunal" />
     <MESSAGE value="floor search / floor of target element" />
@@ -434,7 +430,8 @@
     <MESSAGE value="Selection sort done" />
     <MESSAGE value="Revision started" />
     <MESSAGE value="Revision BubbleSort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revision BubbleSort" />
+    <MESSAGE value="Revision2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revision2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

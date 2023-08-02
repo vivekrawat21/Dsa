@@ -51,13 +51,6 @@
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
     </task>
-    <task id="LOCAL-00019" summary="2darraySearch">
-      <created>1689523578344</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1689523578344</updated>
-    </task>
     <task id="LOCAL-00020" summary="2darraySearch">
       <created>1689526562213</created>
       <option name="number" value="00020" />
@@ -394,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690912243803</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Revision BubbleSort">
+      <created>1690913153193</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1690913153193</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

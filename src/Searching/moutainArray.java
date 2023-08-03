@@ -20,6 +20,7 @@ public class moutainArray { //also known as bitonic/ mountain array
             if(arr[mid]>arr[mid+1]){
                end =mid;
             }
+            //revised
             else {
                 start= mid+1;
             }

@@ -16,6 +16,7 @@ public class SearchingInmatrices {
                 return new int[]{r,c};
             }
             if(arr[r][c]< target){
+                //today revision
                 r++;
             }
             else {

@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Today revision">
-      <change afterPath="$PROJECT_DIR$/src/Sorting/InsertionSort.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="InsertionSort Started">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/InsertionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +55,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
-    </task>
-    <task id="LOCAL-00033" summary="facebook question">
-      <created>1689878586202</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1689878586202</updated>
     </task>
     <task id="LOCAL-00034" summary="facebook question">
       <created>1689957072013</created>
@@ -399,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691343258727</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="InsertionSort Started">
+      <created>1691344864038</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1691344864038</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,7 +414,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="search in rotated sorted array" />
     <MESSAGE value="resolving this question" />
     <MESSAGE value="search in RotatedArray when the array contains duplicate elements" />
     <MESSAGE value="new question" />
@@ -439,7 +438,8 @@
     <MESSAGE value="today revision" />
     <MESSAGE value="Sorted2dMatrix" />
     <MESSAGE value="Today revision" />
-    <option name="LAST_COMMIT_MESSAGE" value="Today revision" />
+    <MESSAGE value="InsertionSort Started" />
+    <option name="LAST_COMMIT_MESSAGE" value="InsertionSort Started" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -7,7 +7,7 @@ public class InsertionSort {
     //After every pass array is getting sorted....
     public static void main(String[] args) {
 
-        int[] arr = {2,1,3,5,8,3,23,23,33,22,21};
+        int[] arr = {-1,-2,0,-10,1};
         sortInsertion(arr);
         System.out.println(Arrays.toString(arr));
 

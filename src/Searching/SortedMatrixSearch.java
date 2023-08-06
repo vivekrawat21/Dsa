@@ -25,6 +25,7 @@ public class SortedMatrixSearch {
                 return new int[]{mid, cMid};
 
             }
+            //Today logic
 
             if (matrix[mid][cMid] < target) {
                 rStart = mid;

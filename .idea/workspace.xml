@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="InsertionSort Done">
-      <change afterPath="$PROJECT_DIR$/src/Revision/Insertion.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="InsertionSort Done Revised">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,13 +54,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Peak index in mountain array problem">
-      <created>1690049267288</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1690049267288</updated>
     </task>
     <task id="LOCAL-00038" summary="Peak index in mountain array problem">
       <created>1690049360902</created>
@@ -399,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691430852525</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="InsertionSort Done Revised">
+      <created>1691432435514</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1691432435514</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,7 +413,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="search in RotatedArray when the array contains duplicate elements" />
     <MESSAGE value="new question" />
     <MESSAGE value="SplitArrayLargestSum-Hard question" />
     <MESSAGE value="squareRoot using binary search" />
@@ -439,7 +437,8 @@
     <MESSAGE value="Today revision" />
     <MESSAGE value="InsertionSort Started" />
     <MESSAGE value="InsertionSort Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="InsertionSort Done" />
+    <MESSAGE value="InsertionSort Done Revised" />
+    <option name="LAST_COMMIT_MESSAGE" value="InsertionSort Done Revised" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

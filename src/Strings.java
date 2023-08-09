@@ -3,7 +3,10 @@ public class Strings {
         String name= "Vivek Rawat";
         String B ="Vivek Rawat";
         //Both the refrence variable pointing to same memory space in heap
-        System.out.println(B);
+//        System.out.println(B);
         //Strings in java are immutable
+
+//         methods of string
+        System.out.println(name.equals(B));
     }
 }

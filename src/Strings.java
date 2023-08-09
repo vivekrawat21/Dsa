@@ -8,5 +8,7 @@ public class Strings {
 
 //         methods of string
         System.out.println(name.equals(B));
+
+        System.out.println(name.charAt(0));
     }
 }

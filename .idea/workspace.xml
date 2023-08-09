@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="InsertionSort Done Revised">
-      <change afterPath="$PROJECT_DIR$/src/Strings.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="equals">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,20 +55,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Peak index in mountain array problem">
-      <created>1690125049679</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1690125049679</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Peak index in mountain array problem">
-      <created>1690133347662</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1690133347663</updated>
     </task>
     <task id="LOCAL-00041" summary="search in rotated sorted array">
       <created>1690216965086</created>
@@ -398,7 +385,21 @@
       <option name="project" value="LOCAL" />
       <updated>1691518193037</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Strings">
+      <created>1691518340690</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1691518340690</updated>
+    </task>
+    <task id="LOCAL-00089" summary="equals">
+      <created>1691599326856</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1691599326858</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,8 +414,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new question" />
-    <MESSAGE value="SplitArrayLargestSum-Hard question" />
     <MESSAGE value="squareRoot using binary search" />
     <MESSAGE value="new problem" />
     <MESSAGE value="logic 1" />
@@ -438,7 +437,9 @@
     <MESSAGE value="InsertionSort Started" />
     <MESSAGE value="InsertionSort Done" />
     <MESSAGE value="InsertionSort Done Revised" />
-    <option name="LAST_COMMIT_MESSAGE" value="InsertionSort Done Revised" />
+    <MESSAGE value="Strings" />
+    <MESSAGE value="equals" />
+    <option name="LAST_COMMIT_MESSAGE" value="equals" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

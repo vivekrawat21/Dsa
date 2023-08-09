@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="equals">
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="charAt">
+      <change afterPath="$PROJECT_DIR$/src/PreetyPrinting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings.java" afterDir="false" />
     </list>
@@ -55,20 +56,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
-    </task>
-    <task id="LOCAL-00041" summary="search in rotated sorted array">
-      <created>1690216965086</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1690216965086</updated>
-    </task>
-    <task id="LOCAL-00042" summary="search in rotated sorted array">
-      <created>1690223235606</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1690223235606</updated>
     </task>
     <task id="LOCAL-00043" summary="resolving this question">
       <created>1690305841240</created>
@@ -399,7 +386,21 @@
       <option name="project" value="LOCAL" />
       <updated>1691599326858</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="charAt">
+      <created>1691599483401</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1691599483401</updated>
+    </task>
+    <task id="LOCAL-00091" summary="charAt">
+      <created>1691599500725</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1691599500725</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,7 +415,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="squareRoot using binary search" />
     <MESSAGE value="new problem" />
     <MESSAGE value="logic 1" />
     <MESSAGE value="BinRY search" />
@@ -439,7 +439,8 @@
     <MESSAGE value="InsertionSort Done Revised" />
     <MESSAGE value="Strings" />
     <MESSAGE value="equals" />
-    <option name="LAST_COMMIT_MESSAGE" value="equals" />
+    <MESSAGE value="charAt" />
+    <option name="LAST_COMMIT_MESSAGE" value="charAt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

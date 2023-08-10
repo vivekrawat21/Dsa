@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Performance in strings">
-      <change afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrngBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Refactored">
+      <change beforePath="$PROJECT_DIR$/src/Strings/Performance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/Performance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,20 +54,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
-    </task>
-    <task id="LOCAL-00046" summary="search in RotatedArray when the array contains duplicate elements">
-      <created>1690395625934</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1690395625934</updated>
-    </task>
-    <task id="LOCAL-00047" summary="new question">
-      <created>1690479362524</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1690479362524</updated>
     </task>
     <task id="LOCAL-00048" summary="SplitArrayLargestSum-Hard question">
       <created>1690479892594</created>
@@ -400,7 +384,21 @@
       <option name="project" value="LOCAL" />
       <updated>1691686633312</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Palindrome question">
+      <created>1691687734670</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1691687734670</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Refactored">
+      <created>1691687848337</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1691687848337</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -415,8 +413,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BinRY search" />
-    <MESSAGE value="Flower boquet end" />
     <MESSAGE value="Sorting starte" />
     <MESSAGE value="Sorting started" />
     <MESSAGE value="Bubble sort done" />
@@ -440,7 +436,9 @@
     <MESSAGE value="charAt" />
     <MESSAGE value="Preety string" />
     <MESSAGE value="Performance in strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Performance in strings" />
+    <MESSAGE value="Palindrome question" />
+    <MESSAGE value="Refactored" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

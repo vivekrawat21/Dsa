@@ -3,7 +3,7 @@ package Searching;
 import java.util.Scanner;
 
 public class LinearSearchString {
-//    static Boolean LinearSearch(String s,char target) {
+//    static Boolean LinearSearch(Strings.Performance.String s,char target) {
 //        if (s.length() == 0) {
 //            return false;
 //        }

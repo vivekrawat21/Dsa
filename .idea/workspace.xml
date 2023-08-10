@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Preety string">
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Performance in strings">
+      <change afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrngBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PreetyPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PreetyPrinting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,20 +56,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
-    </task>
-    <task id="LOCAL-00044" summary="search in RotatedArray when the array contains duplicate elements">
-      <created>1690307649831</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1690307649831</updated>
-    </task>
-    <task id="LOCAL-00045" summary="search in RotatedArray when the array contains duplicate elements">
-      <created>1690395534621</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1690395534621</updated>
     </task>
     <task id="LOCAL-00046" summary="search in RotatedArray when the array contains duplicate elements">
       <created>1690395625934</created>
@@ -399,7 +386,21 @@
       <option name="project" value="LOCAL" />
       <updated>1691600676224</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="Performance in strings">
+      <created>1691686169422</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1691686169422</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Performance in strings">
+      <created>1691686633312</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1691686633312</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,7 +415,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="logic 1" />
     <MESSAGE value="BinRY search" />
     <MESSAGE value="Flower boquet end" />
     <MESSAGE value="Sorting starte" />
@@ -439,7 +439,8 @@
     <MESSAGE value="equals" />
     <MESSAGE value="charAt" />
     <MESSAGE value="Preety string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Preety string" />
+    <MESSAGE value="Performance in strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Performance in strings" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

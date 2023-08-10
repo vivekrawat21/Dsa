@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="charAt">
-      <change afterPath="$PROJECT_DIR$/src/PreetyPrinting.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Preety string">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PreetyPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PreetyPrinting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +55,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
-    </task>
-    <task id="LOCAL-00043" summary="resolving this question">
-      <created>1690305841240</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1690305841240</updated>
     </task>
     <task id="LOCAL-00044" summary="search in RotatedArray when the array contains duplicate elements">
       <created>1690307649831</created>
@@ -400,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691599500725</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="Preety string">
+      <created>1691600676224</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1691600676224</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -415,7 +414,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new problem" />
     <MESSAGE value="logic 1" />
     <MESSAGE value="BinRY search" />
     <MESSAGE value="Flower boquet end" />
@@ -440,7 +438,8 @@
     <MESSAGE value="Strings" />
     <MESSAGE value="equals" />
     <MESSAGE value="charAt" />
-    <option name="LAST_COMMIT_MESSAGE" value="charAt" />
+    <MESSAGE value="Preety string" />
+    <option name="LAST_COMMIT_MESSAGE" value="Preety string" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

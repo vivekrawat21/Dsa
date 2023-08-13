@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Refactored">
-      <change afterPath="$PROJECT_DIR$/src/PatternQuestions/FirstPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="FirstPattern">
+      <change afterPath="$PROJECT_DIR$/src/PatternQuestions/SecondPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +55,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
-    </task>
-    <task id="LOCAL-00054" summary="new problem">
-      <created>1690651909729</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1690651909729</updated>
     </task>
     <task id="LOCAL-00055" summary="logic 1">
       <created>1690652710967</created>
@@ -401,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691946997031</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="FirstPattern">
+      <created>1691948572643</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1691948572643</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -416,7 +414,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sorting starte" />
     <MESSAGE value="Sorting started" />
     <MESSAGE value="Bubble sort done" />
     <MESSAGE value="Bubble sort" />
@@ -441,7 +438,8 @@
     <MESSAGE value="Performance in strings" />
     <MESSAGE value="Palindrome question" />
     <MESSAGE value="Refactored" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactored" />
+    <MESSAGE value="FirstPattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="FirstPattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

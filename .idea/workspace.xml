@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Refactored">
-      <change beforePath="$PROJECT_DIR$/src/Strings/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/Palindrome.java" afterDir="false" />
-    </list>
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Refactored" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,20 +52,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
-    </task>
-    <task id="LOCAL-00050" summary="squareRoot using binary search">
-      <created>1690563737365</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1690563737365</updated>
-    </task>
-    <task id="LOCAL-00051" summary="squareRoot using binary search">
-      <created>1690564935991</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1690564935991</updated>
     </task>
     <task id="LOCAL-00052" summary="squareRoot using binary search">
       <created>1690565924076</created>
@@ -398,7 +382,21 @@
       <option name="project" value="LOCAL" />
       <updated>1691688037231</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="Refactored">
+      <created>1691688082185</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1691688082185</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Refactored">
+      <created>1691688119188</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1691688119188</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

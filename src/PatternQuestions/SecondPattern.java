@@ -9,10 +9,10 @@ public class SecondPattern {
         //Identify for every row number how many columns are there or types of elements in the column
 
         //What do you need to print for every element
-        patternFirst(6);
+        patternSecond(6);
     }
 
-    static void patternFirst(int n){
+    static void patternSecond(int n){
         for (int row = 1; row <= n; row++) {
             //for every row how many colums are = row
             for (int col=1; col<=n;col++){

@@ -1,6 +1,6 @@
 package PatternQuestions;
 
-public class FourthPattern {
+public class PatternFive {
 
     public static void main(String[] args) {
         //Approach:
@@ -9,19 +9,18 @@ public class FourthPattern {
         //Identify for every row number how many columns are there or types of elements in the column
 
         //What do you need to print for every element
-        patternFour(6);
+        patternFive(6);
     }
 
-    static void patternFour(int n){
-        for (int row = 1; row <= n; row++) {
+    static void patternFive(int n){
+        for (int row = 1; row <= 2*n-1; row++) {
             //for every row how many colums are = row
-            int count =0;
-            for (int col=1; col<=row;col++){
-
-                count++;
-                System.out.print(count + " " );
+            int Totalcol = row>=n ? 2*n-row:row;
+            for (int col=1; col<=Totalcol;col++){
+                System.out.print("* ");
             }
             System.out.println();
         }
+
     }
 }

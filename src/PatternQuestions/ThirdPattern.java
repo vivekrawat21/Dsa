@@ -9,10 +9,10 @@ public class ThirdPattern {
         //Identify for every row number how many columns are there or types of elements in the column
 
         //What do you need to print for every element
-        patternFirst(6);
+        patternThird(6);
     }
 
-    static void patternFirst(int n){
+    static void patternThird(int n){
         for (int row = 1; row <= n; row++) {
             //for every row how many colums are = row
             for (int col=0; col<=n-row; col++){

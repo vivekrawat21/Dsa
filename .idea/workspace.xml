@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="PatternSix">
-      <change afterPath="$PROJECT_DIR$/src/Sorting/LeetcodeQuestions/AllMissingNumbersCyclicSort.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Fifth Pattern">
+      <change afterPath="$PROJECT_DIR$/src/PatternQuestions/PatternSix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Sorting started">
+      <created>1690740874705</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1690740874705</updated>
     </task>
     <task id="LOCAL-00061" summary="Bubble sort done">
       <created>1690742551493</created>
@@ -393,14 +400,7 @@
       <option name="project" value="LOCAL" />
       <updated>1692036066961</updated>
     </task>
-    <task id="LOCAL-00109" summary="PatternSix">
-      <created>1692037221457</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1692037221457</updated>
-    </task>
-    <option name="localTasksCounter" value="110" />
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -415,6 +415,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Selection sort done" />
     <MESSAGE value="Revision started" />
     <MESSAGE value="Revision BubbleSort" />
     <MESSAGE value="Revision2" />
@@ -439,8 +440,7 @@
     <MESSAGE value="ThirdPattern" />
     <MESSAGE value="PatternThree" />
     <MESSAGE value="Fifth Pattern" />
-    <MESSAGE value="PatternSix" />
-    <option name="LAST_COMMIT_MESSAGE" value="PatternSix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fifth Pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -538,56 +538,11 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/PatternQuestions/ThirdPattern.java</url>
           <line>14</line>
-          <properties class="PatternQuestions.ThirdPattern" method="patternThird">
+          <properties class="PatternQuestions.ThirdPattern" method="patternFirst">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Sorting/InsertionSort.java</url>
-          <line>16</line>
-          <properties class="Sorting.InsertionSort" method="sortInsertion">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Sorting/CyclicSort.java</url>
-          <line>22</line>
-          <properties class="Sorting.CyclicSort" method="Sort">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Sorting/LeetcodeQuestions/Solution.java</url>
-          <line>12</line>
-          <properties class="Sorting.LeetcodeQuestions.Solution" method="Sort">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Sorting/LeetcodeQuestions/Solution.java</url>
-          <line>35</line>
-          <properties class="Sorting.LeetcodeQuestions.Solution" method="swap">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Sorting/LeetcodeQuestions/AllMissingNumbersCyclicSort.java</url>
-          <line>13</line>
-          <properties class="Sorting.LeetcodeQuestions.AllMissingNumbersCyclicSort" method="findDisappearedNumbers">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Searching/Binarysearch.java</url>
@@ -608,21 +563,6 @@
           <url>file://$PROJECT_DIR$/src/Searching/SortedMatrixSearch.java</url>
           <line>19</line>
           <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PatternQuestions/PatternSix.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Sorting/CyclicSort.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Sorting/LeetcodeQuestions/Solution.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="34" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />

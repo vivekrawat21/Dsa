@@ -14,10 +14,9 @@ class Solution {
         int index=0;
 
         while(index <arr.length){
-            int elem = arr[index];
             if(arr[index] < arr.length && arr[index] != index){
 
-                swap(index ,elem, arr);
+                swap(index ,arr[index], arr);
             }
             else{
                 index++;

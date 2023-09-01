@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="recursion started">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/FIbbonacciSeries.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="fibonacciSeries done">
+      <change afterPath="$PROJECT_DIR$/src/Recursion/BinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,13 +57,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
-    </task>
-    <task id="LOCAL-00063" summary="Bubble sort">
-      <created>1690742992747</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1690742992747</updated>
     </task>
     <task id="LOCAL-00064" summary="Selection sort started">
       <created>1690816013798</created>
@@ -401,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693508837935</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="fibonacciSeries done">
+      <created>1693509183626</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1693509183626</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -416,7 +416,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Revision BubbleSort" />
     <MESSAGE value="Revision2" />
     <MESSAGE value="SelectionSortRevision" />
     <MESSAGE value="Revised" />
@@ -441,7 +440,8 @@
     <MESSAGE value="Fifth Pattern" />
     <MESSAGE value="cyclicSort and question" />
     <MESSAGE value="recursion started" />
-    <option name="LAST_COMMIT_MESSAGE" value="recursion started" />
+    <MESSAGE value="fibonacciSeries done" />
+    <option name="LAST_COMMIT_MESSAGE" value="fibonacciSeries done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

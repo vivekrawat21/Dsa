@@ -4,8 +4,13 @@ import java.util.Arrays;
 
 public class SortedMatrixSearch {
     public static void main(String[] args) {
-        int[][] matrix = {{1, 2, 3, 4, 5}, {7, 8, 9, 12, 14}, {15, 18, 25, 39, 41}, {45, 65, 73, 79, 82}, {85, 86, 87, 88, 94}};
-        System.out.println(Arrays.toString(search(matrix, 1)));
+        int[][] matrix = {
+                {1, 2, 3, 4, 5},
+                {7, 8, 9, 12, 14},
+                {15, 18, 25, 39, 41},
+                {45, 65, 73, 79, 82},
+                {85, 86, 87, 88, 94}};
+        System.out.println(Arrays.toString(search(matrix, 82)));
     }
 
     static int[] search(int[][] matrix, int target) {

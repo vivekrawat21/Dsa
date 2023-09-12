@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="fibonacciSeries done">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/BinarySearch.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="BinarySearch using recursion done">
+      <change afterPath="$PROJECT_DIR$/src/BitwiseOperators/even_odd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/SortedMatrixSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/SortedMatrixSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +58,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
-    </task>
-    <task id="LOCAL-00064" summary="Selection sort started">
-      <created>1690816013798</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1690816013798</updated>
     </task>
     <task id="LOCAL-00065" summary="Selection sort done">
       <created>1690817476650</created>
@@ -401,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693509183626</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="BinarySearch using recursion done">
+      <created>1693591227470</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1693591227471</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -416,7 +417,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Revision2" />
     <MESSAGE value="SelectionSortRevision" />
     <MESSAGE value="Revised" />
     <MESSAGE value="Revised 2d array searching" />
@@ -441,7 +441,8 @@
     <MESSAGE value="cyclicSort and question" />
     <MESSAGE value="recursion started" />
     <MESSAGE value="fibonacciSeries done" />
-    <option name="LAST_COMMIT_MESSAGE" value="fibonacciSeries done" />
+    <MESSAGE value="BinarySearch using recursion done" />
+    <option name="LAST_COMMIT_MESSAGE" value="BinarySearch using recursion done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -571,7 +572,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Searching/SortedMatrixSearch.java</url>
-          <line>19</line>
+          <line>24</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

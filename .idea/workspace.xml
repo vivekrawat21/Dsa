@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="BinarySearch using recursion done">
-      <change afterPath="$PROJECT_DIR$/src/BitwiseOperators/even_odd.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Even odd and much more&#10;bitwise">
+      <change afterPath="$PROJECT_DIR$/src/BitwiseOperators/NumberNotAppearingTwice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searching/SortedMatrixSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/SortedMatrixSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +57,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
-    </task>
-    <task id="LOCAL-00065" summary="Selection sort done">
-      <created>1690817476650</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1690817476650</updated>
     </task>
     <task id="LOCAL-00066" summary="Revision started">
       <created>1690912120593</created>
@@ -402,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693591227471</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="Even odd and much more&#10;bitwise">
+      <created>1694491060831</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1694491060832</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -417,7 +416,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SelectionSortRevision" />
     <MESSAGE value="Revised" />
     <MESSAGE value="Revised 2d array searching" />
     <MESSAGE value="today revision" />
@@ -442,7 +440,8 @@
     <MESSAGE value="recursion started" />
     <MESSAGE value="fibonacciSeries done" />
     <MESSAGE value="BinarySearch using recursion done" />
-    <option name="LAST_COMMIT_MESSAGE" value="BinarySearch using recursion done" />
+    <MESSAGE value="Even odd and much more&#10;bitwise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Even odd and much more&#10;bitwise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -554,6 +553,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BitwiseOperators/NumberNotAppearingTwice.java</url>
+          <line>10</line>
+          <properties class="BitwiseOperators.NumberNotAppearingTwice" method="find">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Searching/Binarysearch.java</url>

@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Even odd and much more&#10;bitwise">
-      <change afterPath="$PROJECT_DIR$/src/BitwiseOperators/NumberNotAppearingTwice.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="finding unique no. using bitwise operator in an array">
+      <change afterPath="$PROJECT_DIR$/src/BitwiseOperators/FindiThbit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,13 +57,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689174196980</updated>
-    </task>
-    <task id="LOCAL-00066" summary="Revision started">
-      <created>1690912120593</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1690912120593</updated>
     </task>
     <task id="LOCAL-00067" summary="Revision BubbleSort">
       <created>1690912243803</created>
@@ -401,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694491060832</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="finding unique no. using bitwise operator in an array">
+      <created>1694575280871</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1694575280871</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -416,7 +416,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Revised" />
     <MESSAGE value="Revised 2d array searching" />
     <MESSAGE value="today revision" />
     <MESSAGE value="Sorted2dMatrix" />
@@ -441,7 +440,8 @@
     <MESSAGE value="fibonacciSeries done" />
     <MESSAGE value="BinarySearch using recursion done" />
     <MESSAGE value="Even odd and much more&#10;bitwise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Even odd and much more&#10;bitwise" />
+    <MESSAGE value="finding unique no. using bitwise operator in an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="finding unique no. using bitwise operator in an array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

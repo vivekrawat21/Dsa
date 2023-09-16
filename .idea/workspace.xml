@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="magic number">
-      <change afterPath="$PROJECT_DIR$/src/BitwiseOperators/NoOfDIgitsInbase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitwiseOperators/SetIthBit.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="set the ith bit">
+      <change afterPath="$PROJECT_DIR$/src/BitwiseOperators/ResetIthBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoOfDigitsInBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BitwiseOperators/FindiThbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BitwiseOperators/FindiThbit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,12 +25,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "vivekrawat21"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vivekrawat21&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -421,7 +420,7 @@
       <option name="project" value="LOCAL" />
       <updated>1694575280871</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -436,8 +435,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="today revision" />
-    <MESSAGE value="Sorted2dMatrix" />
     <MESSAGE value="Today revision" />
     <MESSAGE value="InsertionSort Started" />
     <MESSAGE value="InsertionSort Done" />
@@ -461,7 +458,9 @@
     <MESSAGE value="Even odd and much more&#10;bitwise" />
     <MESSAGE value="finding unique no. using bitwise operator in an array" />
     <MESSAGE value="magic number" />
-    <option name="LAST_COMMIT_MESSAGE" value="magic number" />
+    <MESSAGE value="kth bit in binary" />
+    <MESSAGE value="set the ith bit" />
+    <option name="LAST_COMMIT_MESSAGE" value="set the ith bit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

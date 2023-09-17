@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Is number in the power of 2  or not">
-      <change afterPath="$PROJECT_DIR$/src/BitwiseOperators/NumberOfSetBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitwiseOperators/Power.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="number of set bits and power of base b">
+      <change afterPath="$PROJECT_DIR$/src/BitwiseOperators/XorOfNumbersAndRangeXor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -420,7 +419,7 @@
       <option name="project" value="LOCAL" />
       <updated>1694575280871</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -435,7 +434,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="InsertionSort Done Revised" />
     <MESSAGE value="Strings" />
     <MESSAGE value="equals" />
     <MESSAGE value="charAt" />
@@ -460,7 +458,8 @@
     <MESSAGE value="No. of digits in base" />
     <MESSAGE value="Sum of row in Pascal's Triangle" />
     <MESSAGE value="Is number in the power of 2  or not" />
-    <option name="LAST_COMMIT_MESSAGE" value="Is number in the power of 2  or not" />
+    <MESSAGE value="number of set bits and power of base b" />
+    <option name="LAST_COMMIT_MESSAGE" value="number of set bits and power of base b" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

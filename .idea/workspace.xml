@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="flipping the image">
-      <change afterPath="$PROJECT_DIR$/src/MathsInDsa/PrimeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathsInDsa/PrimeInRangeSeive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathsInDsa/SqrtWIthPrecision.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathsInDsa/PrimeInRangeSeive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathsInDsa/PrimeInRangeSeive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

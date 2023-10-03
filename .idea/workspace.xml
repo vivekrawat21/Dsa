@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="LCM and hcf">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/level1/CountingNumbersOfSteps.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="CountingNumbersOfSteps to reduce an even number to zero leetcode">
+      <change afterPath="$PROJECT_DIR$/src/Recursion/level1/CountingNumberOfzeros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -419,7 +419,7 @@
       <option name="project" value="LOCAL" />
       <updated>1694575280871</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -434,7 +434,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Preety string" />
     <MESSAGE value="Performance in strings" />
     <MESSAGE value="Palindrome question" />
     <MESSAGE value="Refactored" />
@@ -459,7 +458,8 @@
     <MESSAGE value="Xor in range" />
     <MESSAGE value="flipping the image" />
     <MESSAGE value="LCM and hcf" />
-    <option name="LAST_COMMIT_MESSAGE" value="LCM and hcf" />
+    <MESSAGE value="CountingNumbersOfSteps to reduce an even number to zero leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="CountingNumbersOfSteps to reduce an even number to zero leetcode" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

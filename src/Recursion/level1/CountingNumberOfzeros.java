@@ -19,7 +19,7 @@ public class CountingNumberOfzeros
             return count;
         }
        int  rem = num%10;
-        if(rem ==0){
+        if(rem == 0){
             return helper(num/10,count+1);
         }
         else {

@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="CountingNumbersOfSteps to reduce an even number to zero leetcode">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/level1/CountingNumberOfzeros.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="CountingNumberOfzeros">
+      <change afterPath="$PROJECT_DIR$/src/Recursion/level1/ReverseOfNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/level1/SumOfDigitsOfNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathsInDsa/HCF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathsInDsa/HCF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathsInDsa/LCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathsInDsa/LCM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/level1/CountingNumberOfzeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/level1/CountingNumberOfzeros.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -419,7 +423,7 @@
       <option name="project" value="LOCAL" />
       <updated>1694575280871</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -434,7 +438,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Performance in strings" />
     <MESSAGE value="Palindrome question" />
     <MESSAGE value="Refactored" />
     <MESSAGE value="FirstPattern" />
@@ -459,7 +462,8 @@
     <MESSAGE value="flipping the image" />
     <MESSAGE value="LCM and hcf" />
     <MESSAGE value="CountingNumbersOfSteps to reduce an even number to zero leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="CountingNumbersOfSteps to reduce an even number to zero leetcode" />
+    <MESSAGE value="CountingNumberOfzeros" />
+    <option name="LAST_COMMIT_MESSAGE" value="CountingNumberOfzeros" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -589,6 +593,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/level1/SumOfDigitsOfNum.java</url>
+          <line>13</line>
+          <properties class="Recursion.level1.SumOfDigitsOfNum" method="Sum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Searching/Binarysearch.java</url>

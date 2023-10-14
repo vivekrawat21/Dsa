@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="revision recursion">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/level1/Palindrome.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="isSortedArrayRecursion">
+      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionArray/LinearSearchRecursion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -419,7 +419,7 @@
       <option name="project" value="LOCAL" />
       <updated>1694575280871</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <option name="localTasksCounter" value="134" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -434,8 +434,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Refactored" />
-    <MESSAGE value="FirstPattern" />
     <MESSAGE value="SecondPattern" />
     <MESSAGE value="ThirdPattern" />
     <MESSAGE value="PatternThree" />
@@ -459,7 +457,9 @@
     <MESSAGE value="CountingNumbersOfSteps to reduce an even number to zero leetcode" />
     <MESSAGE value="CountingNumberOfzeros" />
     <MESSAGE value="revision recursion" />
-    <option name="LAST_COMMIT_MESSAGE" value="revision recursion" />
+    <MESSAGE value="plindrome" />
+    <MESSAGE value="isSortedArrayRecursion" />
+    <option name="LAST_COMMIT_MESSAGE" value="isSortedArrayRecursion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

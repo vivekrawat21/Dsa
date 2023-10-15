@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="isSortedArrayRecursion">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionArray/LinearSearchRecursion.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="LinearSearchFindingIndex">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/RecursionArray/LinearSearchRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/RecursionArray/LinearSearchRecursion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -419,7 +419,7 @@
       <option name="project" value="LOCAL" />
       <updated>1694575280871</updated>
     </task>
-    <option name="localTasksCounter" value="134" />
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -434,7 +434,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SecondPattern" />
     <MESSAGE value="ThirdPattern" />
     <MESSAGE value="PatternThree" />
     <MESSAGE value="Fifth Pattern" />
@@ -459,7 +458,8 @@
     <MESSAGE value="revision recursion" />
     <MESSAGE value="plindrome" />
     <MESSAGE value="isSortedArrayRecursion" />
-    <option name="LAST_COMMIT_MESSAGE" value="isSortedArrayRecursion" />
+    <MESSAGE value="LinearSearchFindingIndex" />
+    <option name="LAST_COMMIT_MESSAGE" value="LinearSearchFindingIndex" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

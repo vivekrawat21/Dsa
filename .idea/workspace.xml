@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="reverse and normal triangle pattern question">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/sorting/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/sorting/SelectionSort.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="bubble sort">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/sorting/SelectionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -420,7 +419,7 @@
       <option name="project" value="LOCAL" />
       <updated>1694575280871</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -435,7 +434,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fifth Pattern" />
     <MESSAGE value="cyclicSort and question" />
     <MESSAGE value="recursion started" />
     <MESSAGE value="fibonacciSeries done" />
@@ -460,7 +458,8 @@
     <MESSAGE value="LinearSearchFindingIndex" />
     <MESSAGE value="finding the index in arraylist" />
     <MESSAGE value="reverse and normal triangle pattern question" />
-    <option name="LAST_COMMIT_MESSAGE" value="reverse and normal triangle pattern question" />
+    <MESSAGE value="bubble sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="bubble sort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -617,6 +616,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/sorting/SelectionSort.java</url>
+          <line>10</line>
+          <properties class="Recursion.sorting.SelectionSort" method="selection">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Searching/Binarysearch.java</url>

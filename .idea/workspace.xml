@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="bubble sort">
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="selection sort">
+      <change afterPath="$PROJECT_DIR$/src/Recursion/sorting/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/sorting/SelectionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -419,7 +419,7 @@
       <option name="project" value="LOCAL" />
       <updated>1694575280871</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <option name="localTasksCounter" value="142" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -434,7 +434,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="cyclicSort and question" />
     <MESSAGE value="recursion started" />
     <MESSAGE value="fibonacciSeries done" />
     <MESSAGE value="BinarySearch using recursion done" />
@@ -459,7 +458,8 @@
     <MESSAGE value="finding the index in arraylist" />
     <MESSAGE value="reverse and normal triangle pattern question" />
     <MESSAGE value="bubble sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="bubble sort" />
+    <MESSAGE value="selection sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="selection sort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -657,5 +657,10 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Dsa$QuickSort.ic" NAME="QuickSort Coverage Results" MODIFIED="1698303307625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Recursion.sorting.*</FILTER>
+    </SUITE>
   </component>
 </project>

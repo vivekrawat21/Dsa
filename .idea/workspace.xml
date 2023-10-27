@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="selection sort">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/sorting/QuickSort.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="QuickSort">
+      <change afterPath="$PROJECT_DIR$/src/Recursion/sorting/MergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -419,7 +419,7 @@
       <option name="project" value="LOCAL" />
       <updated>1694575280871</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -434,7 +434,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="recursion started" />
     <MESSAGE value="fibonacciSeries done" />
     <MESSAGE value="BinarySearch using recursion done" />
     <MESSAGE value="Even odd and much more&#10;bitwise" />
@@ -459,7 +458,8 @@
     <MESSAGE value="reverse and normal triangle pattern question" />
     <MESSAGE value="bubble sort" />
     <MESSAGE value="selection sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="selection sort" />
+    <MESSAGE value="QuickSort" />
+    <option name="LAST_COMMIT_MESSAGE" value="QuickSort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -626,6 +626,24 @@
           </properties>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/sorting/MergeSort.java</url>
+          <line>10</line>
+          <properties class="Recursion.sorting.MergeSort" method="sort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/sorting/MergeSort.java</url>
+          <line>21</line>
+          <properties class="Recursion.sorting.MergeSort" method="merge">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Searching/Binarysearch.java</url>
           <line>22</line>
@@ -650,6 +668,11 @@
           <url>file://$PROJECT_DIR$/src/LcmOfNumber.java</url>
           <line>12</line>
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/sorting/MergeSort.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />

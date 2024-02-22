@@ -8,11 +8,11 @@ public class even_odd {
         int num = in.nextInt();
 
 
-        if ((num & 1) == 1){ //int java the equality operator has high prefrence than bitwise  so we need to specify the pranthesis.
-            System.out.println("Number is odd ");
+        if ((num & 1) == 0){ //int java the equality operator has high prefrence than bitwise  so we need to specify the pranthesis.
+            System.out.println("Number is even ");
         }
         else {
-            System.out.println("Number is even ");
+            System.out.println("Number is odd" + " ");
         }
     }
 }

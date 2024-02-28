@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="basic subsiquences done">
-      <change afterPath="$PROJECT_DIR$/src/String_Subsequences/SubsetsQuestion/SubsetCharacter.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="substring arraylist done">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/MonotonicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Subsequences/BasicStringQuestions/Ascii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Subsequences/Permutations/DisplayPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Subsequences/SubsetsQuestion/SubsequenceAscii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Subsequences/SubsetsQuestion/SubsetsArrayIteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Subsequences/SubsetsQuestion/subsetDuplicateIteration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -427,7 +432,7 @@
       <option name="project" value="LOCAL" />
       <updated>1694575280871</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -445,7 +450,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Even odd and much more&#10;bitwise" />
     <MESSAGE value="finding unique no. using bitwise operator in an array" />
     <MESSAGE value="magic number" />
     <MESSAGE value="kth bit in binary" />
@@ -470,7 +474,8 @@
     <MESSAGE value="QuickSort" />
     <MESSAGE value="started dsa again" />
     <MESSAGE value="basic subsiquences done" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic subsiquences done" />
+    <MESSAGE value="substring arraylist done" />
+    <option name="LAST_COMMIT_MESSAGE" value="substring arraylist done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

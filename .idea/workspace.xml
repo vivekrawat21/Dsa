@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="substring arraylist done">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/MonotonicArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_Subsequences/BasicStringQuestions/Ascii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_Subsequences/Permutations/DisplayPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_Subsequences/SubsetsQuestion/SubsequenceAscii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_Subsequences/SubsetsQuestion/SubsetsArrayIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_Subsequences/SubsetsQuestion/subsetDuplicateIteration.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="permutations done">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Occurences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedLists/CreatingLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Subsequences/Permutations/DisplayMazePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Subsequences/Permutations/MazeCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Subsequences/Permutations/MazeObstacle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -432,7 +433,7 @@
       <option name="project" value="LOCAL" />
       <updated>1694575280871</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -450,7 +451,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="finding unique no. using bitwise operator in an array" />
     <MESSAGE value="magic number" />
     <MESSAGE value="kth bit in binary" />
     <MESSAGE value="set the ith bit" />
@@ -475,7 +475,8 @@
     <MESSAGE value="started dsa again" />
     <MESSAGE value="basic subsiquences done" />
     <MESSAGE value="substring arraylist done" />
-    <option name="LAST_COMMIT_MESSAGE" value="substring arraylist done" />
+    <MESSAGE value="permutations done" />
+    <option name="LAST_COMMIT_MESSAGE" value="permutations done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -660,6 +661,42 @@
           </properties>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Occurences.java</url>
+          <line>11</line>
+          <properties class="Leetcode.Occurences" method="FirstAndLastIndex">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/String_Subsequences/Permutations/MazeCount.java</url>
+          <line>7</line>
+          <properties class="String_Subsequences.Permutations.MazeCount" method="mazeCount">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/String_Subsequences/Permutations/DisplayMazePath.java</url>
+          <line>10</line>
+          <properties class="String_Subsequences.Permutations.DisplayMazePath" method="displayMazePathRD">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/String_Subsequences/Permutations/DisplayMazePath.java</url>
+          <line>35</line>
+          <properties class="String_Subsequences.Permutations.DisplayMazePath" method="displayMazePathRDDi">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Searching/Binarysearch.java</url>
           <line>22</line>
@@ -689,6 +726,16 @@
           <url>file://$PROJECT_DIR$/src/Recursion/sorting/MergeSort.java</url>
           <line>4</line>
           <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Occurences.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/String_Subsequences/Permutations/DisplayMazePath.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />

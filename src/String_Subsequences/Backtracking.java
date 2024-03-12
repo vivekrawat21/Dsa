@@ -17,7 +17,7 @@ public class Backtracking {
         ArrayList<String> up = new ArrayList<>();
         ArrayList<String> right = new ArrayList<>();
         ArrayList<String> left = new ArrayList<>();
-        if (r== maze.length-1 && c == maze.length-1){
+        if (r== maze.length-1 && c == maze[0].length-1){
             ArrayList <String> list = new ArrayList<>();
             list.add(p);
             return  list;

@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="Questions on recursion maze and permutatuins done">
-      <change afterPath="$PROJECT_DIR$/src/String_Subsequences/Backtracking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_Subsequences/SubsetsQuestion/BacktrackingPrintingArray.java" afterDir="false" />
+    <list default="true" id="4a80750b-f488-4d34-a6e1-e840ea45914b" name="Changes" comment="backtracking">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Subsequences/Backtracking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Subsequences/Backtracking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Subsequences/SubsetsQuestion/BacktrackingPrintingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Subsequences/SubsetsQuestion/BacktrackingPrintingArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -428,7 +428,7 @@
       <option name="project" value="LOCAL" />
       <updated>1694575280871</updated>
     </task>
-    <option name="localTasksCounter" value="150" />
+    <option name="localTasksCounter" value="151" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -446,7 +446,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="kth bit in binary" />
     <MESSAGE value="set the ith bit" />
     <MESSAGE value="No. of digits in base" />
     <MESSAGE value="Sum of row in Pascal's Triangle" />
@@ -471,7 +470,8 @@
     <MESSAGE value="substring arraylist done" />
     <MESSAGE value="permutations done" />
     <MESSAGE value="Questions on recursion maze and permutatuins done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Questions on recursion maze and permutatuins done" />
+    <MESSAGE value="backtracking" />
+    <option name="LAST_COMMIT_MESSAGE" value="backtracking" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -691,6 +691,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/String_Subsequences/SubsetsQuestion/BacktrackingPrintingArray.java</url>
+          <line>18</line>
+          <properties class="String_Subsequences.SubsetsQuestion.BacktrackingPrintingArray" method="backtrackPrint">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Searching/Binarysearch.java</url>
